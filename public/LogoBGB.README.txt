@@ -1,0 +1,8 @@
+Place your provided PNG file here so the app can serve it at /LogoBGB.png
+
+Steps:
+1. Save the image you uploaded (LogoBGB.png) into this folder: public/LogoBGB.png
+2. Restart the dev server if it's running: `npm run dev -- --host 0.0.0.0`
+3. Open http://localhost:8080 to verify the logo appears in the navbar.
+
+If you want, I can add the actual PNG file for you — either upload it to the workspace or tell me to embed it as a base64 data URL in the component.
